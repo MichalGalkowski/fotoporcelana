@@ -1,0 +1,42 @@
+[
+    {
+        "name": "bez-zmian",
+        "displayName": "Bez zmian"
+    },
+    {
+        "name": "lekki-blekit",
+        "displayName": "Lekki błękit"
+    },
+    {
+        "name": "szary-gradient",
+        "displayName": "Szary gradient"
+    },
+    {
+        "name": "biale",
+        "displayName": "Białe"
+    },
+    {
+        "name": "czarne",
+        "displayName": "Czarne"
+    },
+    {
+        "name": "chmury",
+        "displayName": "Chmury"
+    },
+    {
+        "name": "woda",
+        "displayName": "Woda"
+    },
+    {
+        "name": "gory",
+        "displayName": "Góry"
+    },
+    {
+        "name": "morze",
+        "displayName": "Morze"
+    },
+    {
+        "name": "laka",
+        "displayName": "Łąka"
+    }
+]
