@@ -67,7 +67,6 @@ class Schemat extends StatelessWidget {
                 ? const SizedBox()
                 : Image.asset(
                     'assets/porcelana/paski/${ksztalt.name}-${pasek.name}.png',
-                    scale: 0.5,
                   ),
           ),
           ubranie.name != 'bez-zmian' && index == 6

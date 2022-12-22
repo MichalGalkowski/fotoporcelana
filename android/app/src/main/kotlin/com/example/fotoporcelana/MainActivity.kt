@@ -1,4 +1,4 @@
-package com.example.fotoporcelana
+package net.fotoporcelana.fotoporcelana
 
 import io.flutter.embedding.android.FlutterActivity
 
