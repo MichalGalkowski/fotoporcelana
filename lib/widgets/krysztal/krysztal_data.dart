@@ -34,6 +34,7 @@ class _KrysztalDataState extends State<KrysztalData> {
       direction: Axis.vertical,
       children: [
         TextField(
+          textCapitalization: TextCapitalization.sentences,
           controller: _messageController,
           keyboardType: TextInputType.multiline,
           maxLength: 10000,

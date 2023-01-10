@@ -33,6 +33,7 @@ class _PorcelanaDataState extends State<PorcelanaData> {
     return Column(
       children: [
         TextField(
+          textCapitalization: TextCapitalization.sentences,
           controller: _messageController,
           keyboardType: TextInputType.multiline,
           maxLength: 10000,

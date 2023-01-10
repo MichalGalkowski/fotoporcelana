@@ -83,22 +83,6 @@ class _CheckboxPageState extends State<CheckboxPage> {
                         ),
                       ],
                     ),
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
-                        const Text('Tryb Express 48h (+49 zł)'),
-                        Checkbox(
-                          value: express,
-                          onChanged: (bool? value) {
-                            setState(() {
-                              express = value!;
-                            });
-                            Provider.of<KrysztalOptions>(context, listen: false)
-                                .changeExpress(express);
-                          },
-                        ),
-                      ],
-                    ),
                   ],
                 ),
               ),

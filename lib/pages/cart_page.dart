@@ -191,7 +191,7 @@ ______________________________________
                         Expanded(
                           child: Padding(
                             padding:
-                                const EdgeInsets.fromLTRB(18.0, 18.0, 0, 0),
+                                const EdgeInsets.fromLTRB(12.0, 12.0, 8, 8),
                             child: Text(
                               products[index].data,
                             ),
